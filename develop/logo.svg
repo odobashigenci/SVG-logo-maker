@@ -1,0 +1,7 @@
+
+    <svg width="250" height="250">
+    <circle cx="100" cy="100" r="100" fill="grey"/>
+        <text x="40%" y="50%" font-size="70px" font-weight="bold" text-anchor="middle" 
+        font-family="Arial" fill="white">WHI</text>
+    </svg>
+    
