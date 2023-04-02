@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require ('fs');
-const generateSvg = require('./utils/generateSvg.js')
+const generateSvg = require('./libs/generateSvg')
 const Shape = require('./libs/shapes')
 
 const questions = [{
@@ -38,9 +38,7 @@ function writeToFile(data){
     console.log(svgData)
     // Write to file using our svgData content
     fs.writeFile('logo.svg', svgData, (err) => {
-        if (err) {
-            console.log(err);
-        }
+        if (err) throw err;
     })
 }
 
