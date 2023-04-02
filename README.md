@@ -39,7 +39,7 @@
   
   </br>
   
-  ##Preview
+  ## Preview
   ![Preview](develop/assets/logo.SVG.preview.png)
   
   </br>
