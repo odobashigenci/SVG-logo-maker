@@ -18,6 +18,7 @@
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Preview](#preview)
   - [License](#license)
   - [Contributing](#contributing)
   - [Test](#test)
@@ -35,6 +36,11 @@
   
   You can use this app through git bash, using the command line. cd into the develop folder, run "node index.js" command and answer the questions prompted.
   For more watch [this video](https://drive.google.com/file/d/1IV0IzrsB1_SgINHGRSPFP9KZzBhAyfxA/view)
+  
+  </br>
+  
+  ##Preview
+  ![Preview](develop/assets/logo.SVG.preview.png)
   
   </br>
   
