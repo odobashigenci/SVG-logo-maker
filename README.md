@@ -8,13 +8,13 @@
   
   ## Description
   
-  Through this app, you will be able to generate a professional README file based on your input and parameters.
+  You can use this app to generate a new SVG logo for your business.
   
   </br>
 
   ## Table of Content
 
-- [SVG-logo-maker](#svg-logo-maker)
+
   - [Description](#description)
   - [Table of Content](#table-of-content)
   - [Installation](#installation)
@@ -23,9 +23,6 @@
   - [Contributing](#contributing)
   - [Test](#test)
   - [Questions and Issues](#questions-and-issues)
-    - [GitHub repository](#github-repository)
-    - [Email me](#email-me)
-
 
   </br>
 
@@ -38,11 +35,10 @@
   ## Usage
   
   You can use this app through git bash, using the command line. cd into the develop folder, run "node index.js" command and answer the questions prompted.
-  For more watch [this video](https://drive.google.com/file/d/1XOPLJNxQrtT026NDTAMXjEKwwUViK4ei/view)
+  For more watch [this video](https://drive.google.com/file/d/1IV0IzrsB1_SgINHGRSPFP9KZzBhAyfxA/view)
   
   </br>
   
-
   ## License
   
   This application is covered under [MIT License](https://choosealicense.com/licenses/mit/)
@@ -57,7 +53,7 @@
     
   ## Test
   
-  To test this app, follow the walk-through video above, or inspect the README file inside develop folder in this repo.
+  To test this app, follow the walk-through video above, download the file folder, or clone this repo to your preferred local directory.
   
   </br>
   
@@ -74,5 +70,3 @@
   [odobashigenci@gmail.com](mailto:odobashigenci@gmail.com)
   
   </br>
-
-
