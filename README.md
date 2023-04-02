@@ -16,7 +16,6 @@
 
 
   - [Description](#description)
-  - [Table of Content](#table-of-content)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
