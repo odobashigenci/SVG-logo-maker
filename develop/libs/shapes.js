@@ -11,7 +11,5 @@ setTextColor(color) {
 }
 }
 
-
-
 module.exports = Shape
 
