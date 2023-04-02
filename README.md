@@ -58,7 +58,7 @@
   
   ## Questions and Issues
   
-  For any questions or issues, feel free to contact me through the contact info provided below 👇
+  👇 For any questions or issues, feel free to contact me through the contact info provided below 👇
   
   ### GitHub repository
   
